@@ -1,0 +1,166 @@
+<scheme name="Custom" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.333" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <attributes>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="708090" />
+      </value>
+    </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="fff595" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="b8ffb0" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="b8ffb0" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="fff595" />
+      </value>
+    </option>
+    <option name="CSS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="7bccff" />
+      </value>
+    </option>
+    <option name="CSS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff99c6" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="b8ffb0" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="708090" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_INTERPOLATION">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
