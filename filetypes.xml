@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="pug" type="Jade" />
+      <mapping pattern="EditableTableController" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
